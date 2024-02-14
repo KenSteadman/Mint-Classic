@@ -32,7 +32,7 @@ In this project, we'll use the fictional Mint Classics relational database and a
 
 After you perform your analysis, you will share your findings.
 
-##Steps to Complete the Project##
+## Steps to Complete the Project
 
 1. Import the Mint Classics database into MySQL Workbench.
 2. Review the data model and sample data tables to understand the business processes and relationships between the entities.
