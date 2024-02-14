@@ -1,6 +1,6 @@
 # Project Scenario
 
-![Project Scenerio](images\image.png)
+![image](https://github.com/KenSteadman/Mint-Classic/assets/104181918/be45cd46-7479-43a2-9bef-078713f9799e)
 
 ## Overview
 
