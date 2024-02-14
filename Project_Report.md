@@ -269,14 +269,16 @@ During the analysis, certain limitations were encountered:
 
 Products are stored across multiple warehouses. Warehouse A houses approximately 65% of the company's total product inventory.
 
-![Visualization 1](images\result_1_image.png)
+![result_1_image](https://github.com/KenSteadman/Mint-Classic/assets/104181918/2266c892-be4b-45f3-b335-4a35918ec912)
 
 ### 2. How are inventory numbers related to sales figures?
 
 The sales-to-stock ratio indicates product demand. Products like "Vintage Car Model X" might be overstocked, while "Modern Car Model Z" shows high demand.
 
-![Visualization 2a](images\result_2a_image.png)
-![Visualization 2b](images\result_2b_image.png)
+![result_2a_image](https://github.com/KenSteadman/Mint-Classic/assets/104181918/26de24c6-96fd-4a41-97a3-3f84d259517d)
+
+
+![result_2b_image](https://github.com/KenSteadman/Mint-Classic/assets/104181918/ca62e30a-f1a9-4604-b7e7-f9619edccafa)
 
 ### 3. Are we storing items that are not moving?
 
@@ -321,7 +323,7 @@ Products like "Antique Decor Model A" have not registered any sales in the past 
 
 Only 15% of orders were shipped within 24 hours, indicating room for improvement in shipping efficiency.
 
-![Visualization 4](images\result_4_image.png)
+![result_4_image](https://github.com/KenSteadman/Mint-Classic/assets/104181918/34fafcd2-764b-4561-a30e-1b0f78d7b655)
 
 <a id="discussion"></a>
 
